@@ -17,7 +17,7 @@ In 2020 it was ready
 
 The project need more support to complete the last built-in tool (Templates management)
 
-This project can be a more secure options other than WordPress in the future
+This project can be more secure option than WordPress in the future
 
 
 # Features
