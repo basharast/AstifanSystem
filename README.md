@@ -49,6 +49,8 @@ This project can be more secure option than WordPress in the future
 
 - Backup management
 
+- MySQL Queries encrypted cache
+
 - API Tools
 
 
