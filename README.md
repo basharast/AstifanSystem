@@ -24,7 +24,7 @@ The project need more support to complete the last stage:
 - NodeJS Integration
 
 
-This project can be a more secure options other than WordPress in the future
+This project can be more secure option than WordPress in the future
 
 
 # Features
@@ -57,7 +57,7 @@ This project can be a more secure options other than WordPress in the future
 
 The project built to provide security
 
-THis project need to be built-in with secure hosting services provide this system as frontend
+This project need to be built-in with secure hosting services provide this system as frontend
 
 We can later publish lite version of the system for public use
 
