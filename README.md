@@ -15,7 +15,14 @@ Then started the main development
 
 In 2020 it was ready
 
-The project need more support to complete the last built-in tool (Templates management)
+The project need more support to complete the last stage: 
+
+- Templates management
+
+- React Integration
+
+- NodeJS Integration
+
 
 This project can be a more secure options other than WordPress in the future
 
@@ -45,6 +52,7 @@ This project can be a more secure options other than WordPress in the future
 - API Tools
 
 
+
 ## Why it's not available
 
 The project built to provide security
@@ -52,6 +60,7 @@ The project built to provide security
 THis project need to be built-in with secure hosting services provide this system as frontend
 
 We can later publish lite version of the system for public use
+
 
 
 # Credits
